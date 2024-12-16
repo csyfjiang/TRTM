@@ -1,2 +1,4 @@
 # TRTM
-Tumor response tricking model
+Official implementation and model checkpoints of Tumor response tricking model.
+
+
